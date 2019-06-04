@@ -1,0 +1,27 @@
+{
+  "name": "lotr-master",
+  "version": "1.0.0",
+  "description": "maakt niet uit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/floriantjeertes/lor-project.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "lor"
+  ],
+  "author": "florian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/floriantjeertes/lor-project/issues"
+  },
+  "homepage": "https://github.com/floriantjeertes/lor-project#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  }
+}
